@@ -1,0 +1,10 @@
+Thank you for installing the chart.
+
+Your chart name is : {{ .Chart.Name }}
+
+your release is named: {{ .Release.Name }}
+
+For more details
+  
+   $ helm status {{ .Release.Name }}
+   $ helm get all {{ .Release.Name }}

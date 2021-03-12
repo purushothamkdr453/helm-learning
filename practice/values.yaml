@@ -1,0 +1,28 @@
+enabled: True
+name: purushotham
+
+favourite:
+   location: bangalore
+
+fruits: 
+- apple
+- mango
+- banana
+
+address:
+  dno: 1-303/1 eastpalem
+  state: Andhrpradesh
+  district: anantapur
+  country: india
+
+companies:
+- wipro
+- infosys
+- capgemini
+- rubrik
+
+mysubchart:
+  dessert: ice cream
+
+global:
+  salad: tomato
